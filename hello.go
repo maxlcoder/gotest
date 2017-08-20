@@ -1,1 +1,6 @@
-iff
+package main
+
+function main() {
+  fmt.
+}
+
