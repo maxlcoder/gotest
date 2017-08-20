@@ -1,6 +1,7 @@
 package main
 
-function main() {
-  fmt.
-}
+import "fmt"
 
+func main() {
+	fmt.Printf("Hello, world or 你好，世界 or καλημ ́ρα κóσμ or こんにちはせかい\n")
+}
